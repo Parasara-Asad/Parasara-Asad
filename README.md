@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello 👋<br>My name is Parasara Mohamad Asad<br>I am collage stud
+Hello 👋<br>My name is Parasara Mohamad Asad<br>I am collage student
 
 
 ## 🌐 Socials:
