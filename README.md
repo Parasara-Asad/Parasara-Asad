@@ -50,31 +50,14 @@ My name is **Parasara Mohamad Asad**.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Parasara-Asad&theme=tokyonight&utcOffset=5.5)
 
----
-
-# 🏆 GitHub Trophies:
-
-![](https://github-profile-trophy.vercel.app/?username=Parasara-Asad\&theme=tokyonight\&no-frame=true\&margin-w=10)
-
----
 
 # 📈 Contribution Graph:
 
 [![Asad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Parasara-Asad\&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
 # 📫 Connect With Me:
 
 * 📷 Instagram: https://www.instagram.com/mr.asad_7332
-
----
-
-# 👀 Profile Views:
-
-![](https://visitcount.itsvg.in/api?id=Parasara-Asad\&icon=5\&color=6)
-
----
 
 ### 💡 Quote
 
