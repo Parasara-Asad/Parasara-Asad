@@ -34,8 +34,6 @@ My name is **Parasara Mohamad Asad**.
 ---
 
 # 📊 GitHub Stats:
-# 📊 GitHub Stats:
-
 ![](https://github-readme-stats.vercel.app/api?username=Parasara-Asad&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Parasara-Asad&theme=tokyonight&hide_border=true)
