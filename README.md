@@ -28,20 +28,29 @@ My name is **Parasara Mohamad Asad**.
 # 📚 Currently Learning:
 
 * 🌱 Data Structures with C
-* 🌱 Java Programming
 * 🌱 JavaScript
 * 🌱 SQL
-* 🌱 Web Development
 
 ---
 
 # 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Parasara-Asad\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Parasara-Asad&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Parasara-Asad\&theme=tokyonight\&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Parasara-Asad&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parasara-Asad\&theme=tokyonight\&hide_border=true\&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parasara-Asad&theme=tokyonight&hide_border=true&layout=compact)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parasara-Asad&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parasara-Asad&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parasara-Asad&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parasara-Asad&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Parasara-Asad&theme=tokyonight&utcOffset=5.5)
 
 ---
 
