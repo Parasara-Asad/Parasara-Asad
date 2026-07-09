@@ -38,17 +38,6 @@ My name is **Parasara Mohamad Asad**.
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Parasara-Asad&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parasara-Asad&theme=tokyonight&hide_border=true&layout=compact)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parasara-Asad&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parasara-Asad&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parasara-Asad&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parasara-Asad&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Parasara-Asad&theme=tokyonight&utcOffset=5.5)
 
 
 # 📈 Contribution Graph:
