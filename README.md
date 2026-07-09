@@ -33,7 +33,7 @@ My name is **Parasara Mohamad Asad**.
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parasara-Asad&layout=compact&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parasara-Asad&layout=compact&cache_seconds=1800)
 
 # 📈 Contribution Graph:
 
