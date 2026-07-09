@@ -32,13 +32,9 @@ My name is **Parasara Mohamad Asad**.
 * 🌱 SQL
 
 ---
+## 📊 Most Used Languages
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Parasara-Asad&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Parasara-Asad&theme=tokyonight&hide_border=true)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parasara-Asad&layout=compact&theme=tokyonight)
 
 # 📈 Contribution Graph:
 
