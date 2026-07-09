@@ -31,7 +31,7 @@ My name is **Parasara Mohamad Asad**.
 * 🌱 JavaScript
 * 🌱 SQL
 
-## 📊 Most Used Languages
+## 📊GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Parasara-Asad&theme=dark)](https://git.io/streak-stats)
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="141" class="">
